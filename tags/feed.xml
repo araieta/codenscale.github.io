@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https:codenscale.github.io/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on code&amp;scale</title>
+    <link>https:codenscale.github.iotags/</link>
+    <description>Recent content in Tags on code&amp;scale</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https:codenscale.github.iotags/feed.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
